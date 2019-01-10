@@ -1,0 +1,1411 @@
+station,catch,vessel,size,status
+CHL,449,S,70,sub
+CHF,224,S,70,sub
+UGB,3,S,70,sub
+UGC,6,S,70,sub
+UGD,9,S,70,sub
+UGE,0,S,70,sub
+UGI,4,S,70,sub
+UGM,0,S,70,sub
+510D,0,S,70,sub
+KLI,15,S,70,sub
+510C,0,S,70,sub
+511A,0,S,70,sub
+535A,17,S,70,sub
+535C,14,S,70,sub
+535C,26,S,70,sub
+535A,41,S,70,sub
+510C,0,S,70,sub
+511A,0,S,70,sub
+535A,8,S,70,sub
+535C,60,S,70,sub
+535C,39,S,70,sub
+535A,15,S,70,sub
+255B,1,S,70,sub
+255A,2,S,70,sub
+256,1,S,70,sub
+257,0,S,70,sub
+283B,0,S,70,sub
+283A,16,S,70,sub
+313,1,S,70,sub
+CHA,0,S,70,sub
+CHB,1,S,70,sub
+CHF,2,S,70,sub
+CHK,4,S,70,sub
+CHL,2,S,70,sub
+KZG,0,S,70,sub
+KZJ,24,S,70,sub
+KZK,23,S,70,sub
+KZO,17,S,70,sub
+KZR,115,S,70,sub
+KZS,0,S,70,sub
+MOGX,1,S,70,sub
+MOLA,11,S,70,sub
+MONX,0,S,70,sub
+MOPA,20,S,70,sub
+MOLB,3,S,70,sub
+MOXA,4,S,70,sub
+MOXB,2,S,70,sub
+CHL,191,R,70,sub
+CHF,"1,248",R,70,sub
+UGB,2,R,70,sub
+UGC,4,R,70,sub
+UGD,14,R,70,sub
+UGE,19,R,70,sub
+UGI,3,R,70,sub
+UGM,0,R,70,sub
+510D,0,R,70,sub
+KLI,8,R,70,sub
+510C,0,R,70,sub
+511A,0,R,70,sub
+535A,7,R,70,sub
+535C,6,R,70,sub
+535C,13,R,70,sub
+535A,7,R,70,sub
+510C,0,R,70,sub
+511A,1,R,70,sub
+535A,1,R,70,sub
+535C,24,R,70,sub
+535C,20,R,70,sub
+535A,6,R,70,sub
+255B,0,R,70,sub
+255A,2,R,70,sub
+256,2,R,70,sub
+257,0,R,70,sub
+283B,1,R,70,sub
+283A,2,R,70,sub
+313,1,R,70,sub
+CHA,0,R,70,sub
+CHB,1,R,70,sub
+CHF,3,R,70,sub
+CHK,18,R,70,sub
+CHL,8,R,70,sub
+KZG,13,R,70,sub
+KZJ,9,R,70,sub
+KZK,36,R,70,sub
+KZO,2,R,70,sub
+KZR,71,R,70,sub
+KZS,49,R,70,sub
+MOGX,2,R,70,sub
+MOLA,10,R,70,sub
+MONX,0,R,70,sub
+MOPA,21,R,70,sub
+MOLB,0,R,70,sub
+MOXA,4,R,70,sub
+MOXB,3,R,70,sub
+CHL,0,S,70_91,sub
+CHF,4,S,70_91,sub
+UGB,0,S,70_91,sub
+UGC,2,S,70_91,sub
+UGD,1,S,70_91,sub
+UGE,5,S,70_91,sub
+UGI,1,S,70_91,sub
+UGM,0,S,70_91,sub
+510D,4,S,70_91,sub
+KLI,0,S,70_91,sub
+510C,0,S,70_91,sub
+511A,0,S,70_91,sub
+535A,1,S,70_91,sub
+535C,1,S,70_91,sub
+535C,0,S,70_91,sub
+535A,1,S,70_91,sub
+510C,0,S,70_91,sub
+511A,1,S,70_91,sub
+535A,0,S,70_91,sub
+535C,1,S,70_91,sub
+535C,1,S,70_91,sub
+535A,1,S,70_91,sub
+255B,1,S,70_91,sub
+255A,1,S,70_91,sub
+256,4,S,70_91,sub
+257,0,S,70_91,sub
+283B,3,S,70_91,sub
+283A,56,S,70_91,sub
+313,2,S,70_91,sub
+CHA,1,S,70_91,sub
+CHB,105,S,70_91,sub
+CHF,20,S,70_91,sub
+CHK,14,S,70_91,sub
+CHL,1,S,70_91,sub
+KZG,3,S,70_91,sub
+KZJ,0,S,70_91,sub
+KZK,145,S,70_91,sub
+KZO,72,S,70_91,sub
+KZR,267,S,70_91,sub
+KZS,26,S,70_91,sub
+MOGX,6,S,70_91,sub
+MOLA,6,S,70_91,sub
+MONX,13,S,70_91,sub
+MOPA,4,S,70_91,sub
+MOLB,0,S,70_91,sub
+MOXA,0,S,70_91,sub
+MOXB,0,S,70_91,sub
+CHL,1,R,70_91,sub
+CHF,33,R,70_91,sub
+UGB,0,R,70_91,sub
+UGC,1,R,70_91,sub
+UGD,1,R,70_91,sub
+UGE,1,R,70_91,sub
+UGI,2,R,70_91,sub
+UGM,0,R,70_91,sub
+510D,0,R,70_91,sub
+KLI,0,R,70_91,sub
+510C,0,R,70_91,sub
+511A,1,R,70_91,sub
+535A,1,R,70_91,sub
+535C,1,R,70_91,sub
+535C,0,R,70_91,sub
+535A,0,R,70_91,sub
+510C,0,R,70_91,sub
+511A,1,R,70_91,sub
+535A,1,R,70_91,sub
+535C,1,R,70_91,sub
+535C,2,R,70_91,sub
+535A,1,R,70_91,sub
+255B,1,R,70_91,sub
+255A,2,R,70_91,sub
+256,2,R,70_91,sub
+257,0,R,70_91,sub
+283B,5,R,70_91,sub
+283A,4,R,70_91,sub
+313,1,R,70_91,sub
+CHA,1,R,70_91,sub
+CHB,23,R,70_91,sub
+CHF,60,R,70_91,sub
+CHK,3,R,70_91,sub
+CHL,2,R,70_91,sub
+KZG,7,R,70_91,sub
+KZJ,2,R,70_91,sub
+KZK,90,R,70_91,sub
+KZO,56,R,70_91,sub
+KZR,133,R,70_91,sub
+KZS,32,R,70_91,sub
+MOGX,8,R,70_91,sub
+MOLA,5,R,70_91,sub
+MONX,10,R,70_91,sub
+MOPA,10,R,70_91,sub
+MOLB,0,R,70_91,sub
+MOXA,0,R,70_91,sub
+MOXB,0,R,70_91,sub
+CHL,2,S,Pollock,
+CHF,2,S,Pollock,
+UGB,87,S,Pollock,
+UGC,89,S,Pollock,
+UGD,28,S,Pollock,
+UGE,22,S,Pollock,
+UGI,6,S,Pollock,
+UGM,3,S,Pollock,
+510D,7,S,Pollock,
+KLI,13,S,Pollock,
+510C,1,S,Pollock,
+511A,1,S,Pollock,
+535A,7,S,Pollock,
+535C,4,S,Pollock,
+535C,2,S,Pollock,
+535A,9,S,Pollock,
+510C,2,S,Pollock,
+511A,1,S,Pollock,
+535A,11,S,Pollock,
+535C,21,S,Pollock,
+535C,13,S,Pollock,
+535A,116,S,Pollock,
+255B,3,S,Pollock,
+255A,1,S,Pollock,
+256,4,S,Pollock,
+257,2,S,Pollock,
+283B,1,S,Pollock,
+283A,0,S,Pollock,
+313,0,S,Pollock,
+CHA,17,S,Pollock,
+CHB,12,S,Pollock,
+CHF,1,S,Pollock,
+CHK,1,S,Pollock,
+CHL,4,S,Pollock,
+KZG,0,S,Pollock,
+KZJ,1,S,Pollock,
+KZK,5,S,Pollock,
+KZO,1,S,Pollock,
+KZR,19,S,Pollock,
+KZS,32,S,Pollock,
+MOGX,5,S,Pollock,
+MOLA,0,S,Pollock,
+MONX,1,S,Pollock,
+MOPA,0,S,Pollock,
+MOLB,0,S,Pollock,
+MOXA,2,S,Pollock,
+MOXB,2,S,Pollock,
+CHL,2,R,Pollock,
+CHF,7,R,Pollock,
+UGB,59,R,Pollock,
+UGC,43,R,Pollock,
+UGD,11,R,Pollock,
+UGE,9,R,Pollock,
+UGI,5,R,Pollock,
+UGM,3,R,Pollock,
+510D,0,R,Pollock,
+KLI,4,R,Pollock,
+510C,4,R,Pollock,
+511A,0,R,Pollock,
+535A,12,R,Pollock,
+535C,6,R,Pollock,
+535C,2,R,Pollock,
+535A,9,R,Pollock,
+510C,1,R,Pollock,
+511A,1,R,Pollock,
+535A,23,R,Pollock,
+535C,20,R,Pollock,
+535C,3,R,Pollock,
+535A,154,R,Pollock,
+255B,4,R,Pollock,
+255A,0,R,Pollock,
+256,0,R,Pollock,
+257,1,R,Pollock,
+283B,1,R,Pollock,
+283A,0,R,Pollock,
+313,0,R,Pollock,
+CHA,15,R,Pollock,
+CHB,3,R,Pollock,
+CHF,3,R,Pollock,
+CHK,4,R,Pollock,
+CHL,4,R,Pollock,
+KZG,1,R,Pollock,
+KZJ,1,R,Pollock,
+KZK,13,R,Pollock,
+KZO,1,R,Pollock,
+KZR,3,R,Pollock,
+KZS,5,R,Pollock,
+MOGX,0,R,Pollock,
+MOLA,1,R,Pollock,
+MONX,2,R,Pollock,
+MOPA,2,R,Pollock,
+MOLB,0,R,Pollock,
+MOXA,6,R,Pollock,
+MOXB,0,R,Pollock,
+CHL,1,S,Pacific cod,
+CHF,1,S,Pacific cod,
+UGB,20,S,Pacific cod,
+UGC,19,S,Pacific cod,
+UGD,0,S,Pacific cod,
+UGE,19,S,Pacific cod,
+UGI,0,S,Pacific cod,
+UGM,2,S,Pacific cod,
+510D,1,S,Pacific cod,
+KLI,19,S,Pacific cod,
+510C,0,S,Pacific cod,
+511A,5,S,Pacific cod,
+535A,10,S,Pacific cod,
+535C,6,S,Pacific cod,
+535C,6,S,Pacific cod,
+535A,8,S,Pacific cod,
+510C,1,S,Pacific cod,
+511A,4,S,Pacific cod,
+535A,24,S,Pacific cod,
+535C,2,S,Pacific cod,
+535C,5,S,Pacific cod,
+535A,20,S,Pacific cod,
+255B,0,S,Pacific cod,
+255A,4,S,Pacific cod,
+256,6,S,Pacific cod,
+257,8,S,Pacific cod,
+283B,2,S,Pacific cod,
+283A,0,S,Pacific cod,
+313,2,S,Pacific cod,
+CHA,3,S,Pacific cod,
+CHB,13,S,Pacific cod,
+CHF,10,S,Pacific cod,
+CHK,14,S,Pacific cod,
+CHL,4,S,Pacific cod,
+KZG,0,S,Pacific cod,
+KZJ,2,S,Pacific cod,
+KZK,6,S,Pacific cod,
+KZO,8,S,Pacific cod,
+KZR,14,S,Pacific cod,
+KZS,11,S,Pacific cod,
+MOGX,13,S,Pacific cod,
+MOLA,7,S,Pacific cod,
+MONX,39,S,Pacific cod,
+MOPA,1,S,Pacific cod,
+MOLB,1,S,Pacific cod,
+MOXA,17,S,Pacific cod,
+MOXB,3,S,Pacific cod,
+CHL,2,R,Pacific cod,
+CHF,5,R,Pacific cod,
+UGB,12,R,Pacific cod,
+UGC,8,R,Pacific cod,
+UGD,6,R,Pacific cod,
+UGE,3,R,Pacific cod,
+UGI,1,R,Pacific cod,
+UGM,0,R,Pacific cod,
+510D,2,R,Pacific cod,
+KLI,16,R,Pacific cod,
+510C,1,R,Pacific cod,
+511A,1,R,Pacific cod,
+535A,15,R,Pacific cod,
+535C,6,R,Pacific cod,
+535C,2,R,Pacific cod,
+535A,6,R,Pacific cod,
+510C,0,R,Pacific cod,
+511A,3,R,Pacific cod,
+535A,21,R,Pacific cod,
+535C,9,R,Pacific cod,
+535C,5,R,Pacific cod,
+535A,19,R,Pacific cod,
+255B,0,R,Pacific cod,
+255A,2,R,Pacific cod,
+256,17,R,Pacific cod,
+257,5,R,Pacific cod,
+283B,1,R,Pacific cod,
+283A,4,R,Pacific cod,
+313,3,R,Pacific cod,
+CHA,0,R,Pacific cod,
+CHB,6,R,Pacific cod,
+CHF,16,R,Pacific cod,
+CHK,6,R,Pacific cod,
+CHL,14,R,Pacific cod,
+KZG,0,R,Pacific cod,
+KZJ,2,R,Pacific cod,
+KZK,4,R,Pacific cod,
+KZO,10,R,Pacific cod,
+KZR,2,R,Pacific cod,
+KZS,10,R,Pacific cod,
+MOGX,7,R,Pacific cod,
+MOLA,7,R,Pacific cod,
+MONX,21,R,Pacific cod,
+MOPA,3,R,Pacific cod,
+MOLB,0,R,Pacific cod,
+MOXA,28,R,Pacific cod,
+MOXB,9,R,Pacific cod,
+CHL,186,S,Flathead,
+CHF,192,S,Flathead,
+UGB,66,S,Flathead,
+UGC,141,S,Flathead,
+UGD,37,S,Flathead,
+UGE,12,S,Flathead,
+UGI,23,S,Flathead,
+UGM,13,S,Flathead,
+510D,11,S,Flathead,
+KLI,202,S,Flathead,
+510C,22,S,Flathead,
+511A,86,S,Flathead,
+535A,11,S,Flathead,
+535C,23,S,Flathead,
+535C,48,S,Flathead,
+535A,7,S,Flathead,
+510C,23,S,Flathead,
+511A,68,S,Flathead,
+535A,14,S,Flathead,
+535C,27,S,Flathead,
+535C,19,S,Flathead,
+535A,12,S,Flathead,
+255B,105,S,Flathead,
+255A,81,S,Flathead,
+256,49,S,Flathead,
+257,71,S,Flathead,
+283B,80,S,Flathead,
+283A,16,S,Flathead,
+313,83,S,Flathead,
+CHA,257,S,Flathead,
+CHB,245,S,Flathead,
+CHF,156,S,Flathead,
+CHK,159,S,Flathead,
+CHL,85,S,Flathead,
+KZG,158,S,Flathead,
+KZJ,130,S,Flathead,
+KZK,164,S,Flathead,
+KZO,92,S,Flathead,
+KZR,44,S,Flathead,
+KZS,63,S,Flathead,
+MOGX,121,S,Flathead,
+MOLA,132,S,Flathead,
+MONX,129,S,Flathead,
+MOPA,60,S,Flathead,
+MOLB,85,S,Flathead,
+MOXA,330,S,Flathead,
+MOXB,205,S,Flathead,
+CHL,292,R,Flathead,
+CHF,262,R,Flathead,
+UGB,77,R,Flathead,
+UGC,141,R,Flathead,
+UGD,13,R,Flathead,
+UGE,23,R,Flathead,
+UGI,28,R,Flathead,
+UGM,3,R,Flathead,
+510D,32,R,Flathead,
+KLI,158,R,Flathead,
+510C,19,R,Flathead,
+511A,89,R,Flathead,
+535A,15,R,Flathead,
+535C,34,R,Flathead,
+535C,45,R,Flathead,
+535A,18,R,Flathead,
+510C,42,R,Flathead,
+511A,94,R,Flathead,
+535A,20,R,Flathead,
+535C,21,R,Flathead,
+535C,27,R,Flathead,
+535A,24,R,Flathead,
+255B,64,R,Flathead,
+255A,61,R,Flathead,
+256,127,R,Flathead,
+257,54,R,Flathead,
+283B,42,R,Flathead,
+283A,79,R,Flathead,
+313,29,R,Flathead,
+CHA,503,R,Flathead,
+CHB,493,R,Flathead,
+CHF,309,R,Flathead,
+CHK,187,R,Flathead,
+CHL,247,R,Flathead,
+KZG,131,R,Flathead,
+KZJ,116,R,Flathead,
+KZK,121,R,Flathead,
+KZO,42,R,Flathead,
+KZR,38,R,Flathead,
+KZS,99,R,Flathead,
+MOGX,84,R,Flathead,
+MOLA,58,R,Flathead,
+MONX,80,R,Flathead,
+MOPA,187,R,Flathead,
+MOLB,95,R,Flathead,
+MOXA,223,R,Flathead,
+MOXB,170,R,Flathead,
+CHL,63,S,ATF,
+CHF,12,S,ATF,
+UGB,21,S,ATF,
+UGC,46,S,ATF,
+UGD,25,S,ATF,
+UGE,63,S,ATF,
+UGI,21,S,ATF,
+UGM,92,S,ATF,
+510D,33,S,ATF,
+KLI,480,S,ATF,
+510C,19,S,ATF,
+511A,53,S,ATF,
+535A,231,S,ATF,
+535C,198,S,ATF,
+535C,271,S,ATF,
+535A,257,S,ATF,
+510C,30,S,ATF,
+511A,45,S,ATF,
+535A,304,S,ATF,
+535C,214,S,ATF,
+535C,305,S,ATF,
+535A,187,S,ATF,
+255B,386,S,ATF,
+255A,179,S,ATF,
+256,320,S,ATF,
+257,290,S,ATF,
+283B,409,S,ATF,
+283A,246,S,ATF,
+313,181,S,ATF,
+CHA,4,S,ATF,
+CHB,50,S,ATF,
+CHF,75,S,ATF,
+CHK,234,S,ATF,
+CHL,131,S,ATF,
+KZG,94,S,ATF,
+KZJ,43,S,ATF,
+KZK,535,S,ATF,
+KZO,494,S,ATF,
+KZR,30,S,ATF,
+KZS,11,S,ATF,
+MOGX,260,S,ATF,
+MOLA,515,S,ATF,
+MONX,380,S,ATF,
+MOPA,483,S,ATF,
+MOLB,149,S,ATF,
+MOXA,332,S,ATF,
+MOXB,367,S,ATF,
+CHL,97,R,ATF,
+CHF,39,R,ATF,
+UGB,26,R,ATF,
+UGC,31,R,ATF,
+UGD,22,R,ATF,
+UGE,17,R,ATF,
+UGI,30,R,ATF,
+UGM,40,R,ATF,
+510D,45,R,ATF,
+KLI,185,R,ATF,
+510C,27,R,ATF,
+511A,103,R,ATF,
+535A,272,R,ATF,
+535C,362,R,ATF,
+535C,258,R,ATF,
+535A,177,R,ATF,
+510C,46,R,ATF,
+511A,61,R,ATF,
+535A,377,R,ATF,
+535C,248,R,ATF,
+535C,248,R,ATF,
+535A,208,R,ATF,
+255B,277,R,ATF,
+255A,105,R,ATF,
+256,265,R,ATF,
+257,258,R,ATF,
+283B,330,R,ATF,
+283A,124,R,ATF,
+313,146,R,ATF,
+CHA,1,R,ATF,
+CHB,39,R,ATF,
+CHF,30,R,ATF,
+CHK,154,R,ATF,
+CHL,157,R,ATF,
+KZG,137,R,ATF,
+KZJ,50,R,ATF,
+KZK,304,R,ATF,
+KZO,"1,932",R,ATF,
+KZR,46,R,ATF,
+KZS,18,R,ATF,
+MOGX,296,R,ATF,
+MOLA,460,R,ATF,
+MONX,321,R,ATF,
+MOPA,325,R,ATF,
+MOLB,170,R,ATF,
+MOXA,249,R,ATF,
+MOXB,276,R,ATF,
+CHL,404,S,Female Total,
+CHF,226,S,Female Total,
+UGB,2,S,Female Total,
+UGC,6,S,Female Total,
+UGD,8,S,Female Total,
+UGE,519,S,Female Total,
+UGI,18,S,Female Total,
+UGM,253,S,Female Total,
+510D,"1,311",S,Female Total,
+KLI,18,S,Female Total,
+510C,0,S,Female Total,
+511A,0,S,Female Total,
+535A,8,S,Female Total,
+535C,15,S,Female Total,
+535C,42,S,Female Total,
+535A,59,S,Female Total,
+510C,0,S,Female Total,
+511A,0,S,Female Total,
+535A,19,S,Female Total,
+535C,66,S,Female Total,
+535C,52,S,Female Total,
+535A,16,S,Female Total,
+255B,21,S,Female Total,
+255A,9,S,Female Total,
+256,19,S,Female Total,
+257,0,S,Female Total,
+283B,52,S,Female Total,
+283A,103,S,Female Total,
+313,17,S,Female Total,
+CHA,0,S,Female Total,
+CHB,118,S,Female Total,
+CHF,58,S,Female Total,
+CHK,79,S,Female Total,
+CHL,3,S,Female Total,
+KZG,86,S,Female Total,
+KZJ,34,S,Female Total,
+KZK,25,S,Female Total,
+KZO,44,S,Female Total,
+KZR,262,S,Female Total,
+KZS,"1,397",S,Female Total,
+MOGX,15,S,Female Total,
+MOLA,15,S,Female Total,
+MONX,12,S,Female Total,
+MOPA,32,S,Female Total,
+MOLB,1,S,Female Total,
+MOXA,3,S,Female Total,
+MOXB,2,S,Female Total,
+CHL,159,R,Female Total,
+CHF,988,R,Female Total,
+UGB,7,R,Female Total,
+UGC,4,R,Female Total,
+UGD,11,R,Female Total,
+UGE,23,R,Female Total,
+UGI,10,R,Female Total,
+UGM,121,R,Female Total,
+510D,25,R,Female Total,
+KLI,9,R,Female Total,
+510C,0,R,Female Total,
+511A,0,R,Female Total,
+535A,9,R,Female Total,
+535C,5,R,Female Total,
+535C,25,R,Female Total,
+535A,6,R,Female Total,
+510C,0,R,Female Total,
+511A,0,R,Female Total,
+535A,8,R,Female Total,
+535C,26,R,Female Total,
+535C,25,R,Female Total,
+535A,8,R,Female Total,
+255B,6,R,Female Total,
+255A,13,R,Female Total,
+256,46,R,Female Total,
+257,0,R,Female Total,
+283B,10,R,Female Total,
+283A,42,R,Female Total,
+313,21,R,Female Total,
+CHA,2,R,Female Total,
+CHB,3,R,Female Total,
+CHF,18,R,Female Total,
+CHK,9,R,Female Total,
+CHL,7,R,Female Total,
+KZG,22,R,Female Total,
+KZJ,8,R,Female Total,
+KZK,29,R,Female Total,
+KZO,153,R,Female Total,
+KZR,82,R,Female Total,
+KZS,157,R,Female Total,
+MOGX,12,R,Female Total,
+MOLA,26,R,Female Total,
+MONX,12,R,Female Total,
+MOPA,25,R,Female Total,
+MOLB,0,R,Female Total,
+MOXA,1,R,Female Total,
+MOXB,3,R,Female Total,
+CHL,2,S,female,adult
+CHF,25,S,female,adult
+UGB,1,S,female,adult
+UGC,3,S,female,adult
+UGD,3,S,female,adult
+UGE,516,S,female,adult
+UGI,14,S,female,adult
+UGM,253,S,female,adult
+510D,"1,311",S,female,adult
+KLI,2,S,female,adult
+510C,0,S,female,adult
+511A,0,S,female,adult
+535A,0,S,female,adult
+535C,1,S,female,adult
+535C,1,S,female,adult
+535A,0,S,female,adult
+510C,0,S,female,adult
+511A,0,S,female,adult
+535A,1,S,female,adult
+535C,0,S,female,adult
+535C,1,S,female,adult
+535A,1,S,female,adult
+255B,21,S,female,adult
+255A,7,S,female,adult
+256,19,S,female,adult
+257,0,S,female,adult
+283B,52,S,female,adult
+283A,93,S,female,adult
+313,16,S,female,adult
+CHA,0,S,female,adult
+CHB,108,S,female,adult
+CHF,43,S,female,adult
+CHK,70,S,female,adult
+CHL,2,S,female,adult
+KZG,10,S,female,adult
+KZJ,3,S,female,adult
+KZK,10,S,female,adult
+KZO,26,S,female,adult
+KZR,69,S,female,adult
+KZS,"1,331",S,female,adult
+MOGX,13,S,female,adult
+MOLA,6,S,female,adult
+MONX,9,S,female,adult
+MOPA,14,S,female,adult
+MOLB,1,S,female,adult
+MOXA,0,S,female,adult
+MOXB,2,S,female,adult
+CHL,0,R,female,adult
+CHF,93,R,female,adult
+UGB,4,R,female,adult
+UGC,1,R,female,adult
+UGD,1,R,female,adult
+UGE,8,R,female,adult
+UGI,8,R,female,adult
+UGM,121,R,female,adult
+510D,24,R,female,adult
+KLI,2,R,female,adult
+510C,0,R,female,adult
+511A,0,R,female,adult
+535A,1,R,female,adult
+535C,0,R,female,adult
+535C,0,R,female,adult
+535A,1,R,female,adult
+510C,0,R,female,adult
+511A,0,R,female,adult
+535A,0,R,female,adult
+535C,0,R,female,adult
+535C,0,R,female,adult
+535A,0,R,female,adult
+255B,6,R,female,adult
+255A,7,R,female,adult
+256,46,R,female,adult
+257,0,R,female,adult
+283B,9,R,female,adult
+283A,40,R,female,adult
+313,19,R,female,adult
+CHA,1,R,female,adult
+CHB,3,R,female,adult
+CHF,15,R,female,adult
+CHK,1,R,female,adult
+CHL,2,R,female,adult
+KZG,5,R,female,adult
+KZJ,0,R,female,adult
+KZK,12,R,female,adult
+KZO,126,R,female,adult
+KZR,31,R,female,adult
+KZS,82,R,female,adult
+MOGX,11,R,female,adult
+MOLA,20,R,female,adult
+MONX,10,R,female,adult
+MOPA,9,R,female,adult
+MOLB,0,R,female,adult
+MOXA,0,R,female,adult
+MOXB,0,R,female,adult
+CHL,402,S,female,juv
+CHF,201,S,female,juv
+UGB,1,S,female,juv
+UGC,4,S,female,juv
+UGD,5,S,female,juv
+UGE,2,S,female,juv
+UGI,4,S,female,juv
+UGM,0,S,female,juv
+510D,0,S,female,juv
+KLI,16,S,female,juv
+510C,0,S,female,juv
+511A,0,S,female,juv
+535A,8,S,female,juv
+535C,14,S,female,juv
+535C,42,S,female,juv
+535A,59,S,female,juv
+510C,0,S,female,juv
+511A,0,S,female,juv
+535A,19,S,female,juv
+535C,66,S,female,juv
+535C,52,S,female,juv
+535A,15,S,female,juv
+255B,0,S,female,juv
+255A,2,S,female,juv
+256,0,S,female,juv
+257,0,S,female,juv
+283B,0,S,female,juv
+283A,10,S,female,juv
+313,1,S,female,juv
+CHA,0,S,female,juv
+CHB,10,S,female,juv
+CHF,15,S,female,juv
+CHK,9,S,female,juv
+CHL,2,S,female,juv
+KZG,77,S,female,juv
+KZJ,31,S,female,juv
+KZK,16,S,female,juv
+KZO,18,S,female,juv
+KZR,193,S,female,juv
+KZS,66,S,female,juv
+MOGX,1,S,female,juv
+MOLA,9,S,female,juv
+MONX,2,S,female,juv
+MOPA,18,S,female,juv
+MOLB,0,S,female,juv
+MOXA,3,S,female,juv
+MOXB,1,S,female,juv
+CHL,159,R,female,juv
+CHF,895,R,female,juv
+UGB,3,R,female,juv
+UGC,3,R,female,juv
+UGD,11,R,female,juv
+UGE,16,R,female,juv
+UGI,2,R,female,juv
+UGM,0,R,female,juv
+510D,1,R,female,juv
+KLI,6,R,female,juv
+510C,0,R,female,juv
+511A,0,R,female,juv
+535A,8,R,female,juv
+535C,5,R,female,juv
+535C,25,R,female,juv
+535A,6,R,female,juv
+510C,0,R,female,juv
+511A,0,R,female,juv
+535A,8,R,female,juv
+535C,26,R,female,juv
+535C,25,R,female,juv
+535A,8,R,female,juv
+255B,0,R,female,juv
+255A,6,R,female,juv
+256,0,R,female,juv
+257,0,R,female,juv
+283B,1,R,female,juv
+283A,1,R,female,juv
+313,2,R,female,juv
+CHA,1,R,female,juv
+CHB,1,R,female,juv
+CHF,3,R,female,juv
+CHK,8,R,female,juv
+CHL,5,R,female,juv
+KZG,17,R,female,juv
+KZJ,8,R,female,juv
+KZK,17,R,female,juv
+KZO,27,R,female,juv
+KZR,51,R,female,juv
+KZS,75,R,female,juv
+MOGX,1,R,female,juv
+MOLA,6,R,female,juv
+MONX,2,R,female,juv
+MOPA,16,R,female,juv
+MOLB,0,R,female,juv
+MOXA,1,R,female,juv
+MOXB,3,R,female,juv
+CHL,451,S,Total,
+CHF,234,S,Total,
+UGB,7,S,Total,
+UGC,16,S,Total,
+UGD,25,S,Total,
+UGE,508,S,Total,
+UGI,31,S,Total,
+UGM,"1,164",S,Total,
+510D,461,S,Total,
+KLI,25,S,Total,
+510C,1,S,Total,
+511A,5,S,Total,
+535A,25,S,Total,
+535C,25,S,Total,
+535C,38,S,Total,
+535A,57,S,Total,
+510C,0,S,Total,
+511A,6,S,Total,
+535A,16,S,Total,
+535C,74,S,Total,
+535C,59,S,Total,
+535A,31,S,Total,
+255B,25,S,Total,
+255A,8,S,Total,
+256,13,S,Total,
+257,0,S,Total,
+283B,37,S,Total,
+283A,103,S,Total,
+313,5,S,Total,
+CHA,1,S,Total,
+CHB,237,S,Total,
+CHF,42,S,Total,
+CHK,57,S,Total,
+CHL,3,S,Total,
+KZG,29,S,Total,
+KZJ,24,S,Total,
+KZK,200,S,Total,
+KZO,120,S,Total,
+KZR,717,S,Total,
+KZS,383,S,Total,
+MOGX,14,S,Total,
+MOLA,25,S,Total,
+MONX,19,S,Total,
+MOPA,28,S,Total,
+MOLB,3,S,Total,
+MOXA,4,S,Total,
+MOXB,3,S,Total,
+CHL,193,R,Total,
+CHF,"1,348",R,Total,
+UGB,3,R,Total,
+UGC,29,R,Total,
+UGD,37,R,Total,
+UGE,64,R,Total,
+UGI,20,R,Total,
+UGM,713,R,Total,
+510D,193,R,Total,
+KLI,14,R,Total,
+510C,2,R,Total,
+511A,8,R,Total,
+535A,17,R,Total,
+535C,16,R,Total,
+535C,23,R,Total,
+535A,13,R,Total,
+510C,3,R,Total,
+511A,6,R,Total,
+535A,11,R,Total,
+535C,38,R,Total,
+535C,35,R,Total,
+535A,15,R,Total,
+255B,5,R,Total,
+255A,8,R,Total,
+256,12,R,Total,
+257,0,R,Total,
+283B,9,R,Total,
+283A,13,R,Total,
+313,3,R,Total,
+CHA,3,R,Total,
+CHB,48,R,Total,
+CHF,103,R,Total,
+CHK,21,R,Total,
+CHL,10,R,Total,
+KZG,55,R,Total,
+KZJ,11,R,Total,
+KZK,152,R,Total,
+KZO,118,R,Total,
+KZR,338,R,Total,
+KZS,121,R,Total,
+MOGX,16,R,Total,
+MOLA,26,R,Total,
+MONX,15,R,Total,
+MOPA,38,R,Total,
+MOLB,0,R,Total,
+MOXA,5,R,Total,
+MOXB,3,R,Total,
+CHL,0,S,Mature,
+CHF,2,S,Mature,
+UGB,2,S,Mature,
+UGC,4,S,Mature,
+UGD,11,S,Mature,
+UGE,366,S,Mature,
+UGI,13,S,Mature,
+UGM,720,S,Mature,
+510D,323,S,Mature,
+KLI,8,S,Mature,
+510C,0,S,Mature,
+511A,1,S,Mature,
+535A,0,S,Mature,
+535C,3,S,Mature,
+535C,6,S,Mature,
+535A,8,S,Mature,
+510C,0,S,Mature,
+511A,1,S,Mature,
+535A,3,S,Mature,
+535C,9,S,Mature,
+535C,12,S,Mature,
+535A,4,S,Mature,
+255B,6,S,Mature,
+255A,1,S,Mature,
+256,2,S,Mature,
+257,0,S,Mature,
+283B,11,S,Mature,
+283A,2,S,Mature,
+313,0,S,Mature,
+CHA,0,S,Mature,
+CHB,76,S,Mature,
+CHF,2,S,Mature,
+CHK,14,S,Mature,
+CHL,0,S,Mature,
+KZG,5,S,Mature,
+KZJ,0,S,Mature,
+KZK,9,S,Mature,
+KZO,4,S,Mature,
+KZR,163,S,Mature,
+KZS,251,S,Mature,
+MOGX,1,S,Mature,
+MOLA,3,S,Mature,
+MONX,0,S,Mature,
+MOPA,1,S,Mature,
+MOLB,0,S,Mature,
+MOXA,0,S,Mature,
+MOXB,0,S,Mature,
+CHL,1,R,Mature,
+CHF,47,R,Mature,
+UGB,1,R,Mature,
+UGC,20,R,Mature,
+UGD,15,R,Mature,
+UGE,25,R,Mature,
+UGI,4,R,Mature,
+UGM,514,R,Mature,
+510D,97,R,Mature,
+KLI,6,R,Mature,
+510C,0,R,Mature,
+511A,3,R,Mature,
+535A,4,R,Mature,
+535C,5,R,Mature,
+535C,9,R,Mature,
+535A,2,R,Mature,
+510C,1,R,Mature,
+511A,1,R,Mature,
+535A,2,R,Mature,
+535C,8,R,Mature,
+535C,8,R,Mature,
+535A,4,R,Mature,
+255B,2,R,Mature,
+255A,1,R,Mature,
+256,2,R,Mature,
+257,0,R,Mature,
+283B,1,R,Mature,
+283A,2,R,Mature,
+313,0,R,Mature,
+CHA,0,R,Mature,
+CHB,6,R,Mature,
+CHF,8,R,Mature,
+CHK,0,R,Mature,
+CHL,0,R,Mature,
+KZG,11,R,Mature,
+KZJ,1,R,Mature,
+KZK,2,R,Mature,
+KZO,16,R,Mature,
+KZR,59,R,Mature,
+KZS,22,R,Mature,
+MOGX,1,R,Mature,
+MOLA,2,R,Mature,
+MONX,1,R,Mature,
+MOPA,2,R,Mature,
+MOLB,0,R,Mature,
+MOXA,0,R,Mature,
+MOXB,0,R,Mature,
+CHL,0,S,Legal,
+CHF,0,S,Legal,
+UGB,1,S,Legal,
+UGC,1,S,Legal,
+UGD,1,S,Legal,
+UGE,36,S,Legal,
+UGI,1,S,Legal,
+UGM,40,S,Legal,
+510D,36,S,Legal,
+KLI,1,S,Legal,
+510C,0,S,Legal,
+511A,0,S,Legal,
+535A,0,S,Legal,
+535C,1,S,Legal,
+535C,1,S,Legal,
+535A,2,S,Legal,
+510C,0,S,Legal,
+511A,0,S,Legal,
+535A,0,S,Legal,
+535C,1,S,Legal,
+535C,1,S,Legal,
+535A,1,S,Legal,
+255B,1,S,Legal,
+255A,0,S,Legal,
+256,0,S,Legal,
+257,0,S,Legal,
+283B,1,S,Legal,
+283A,0,S,Legal,
+313,0,S,Legal,
+CHA,0,S,Legal,
+CHB,5,S,Legal,
+CHF,0,S,Legal,
+CHK,1,S,Legal,
+CHL,0,S,Legal,
+KZG,0,S,Legal,
+KZJ,0,S,Legal,
+KZK,0,S,Legal,
+KZO,0,S,Legal,
+KZR,58,S,Legal,
+KZS,113,S,Legal,
+MOGX,0,S,Legal,
+MOLA,0,S,Legal,
+MONX,0,S,Legal,
+MOPA,0,S,Legal,
+MOLB,0,S,Legal,
+MOXA,0,S,Legal,
+MOXB,0,S,Legal,
+CHL,1,R,Legal,
+CHF,7,R,Legal,
+UGB,1,R,Legal,
+UGC,8,R,Legal,
+UGD,2,R,Legal,
+UGE,3,R,Legal,
+UGI,0,R,Legal,
+UGM,36,R,Legal,
+510D,6,R,Legal,
+KLI,0,R,Legal,
+510C,0,R,Legal,
+511A,0,R,Legal,
+535A,0,R,Legal,
+535C,0,R,Legal,
+535C,1,R,Legal,
+535A,0,R,Legal,
+510C,0,R,Legal,
+511A,0,R,Legal,
+535A,0,R,Legal,
+535C,3,R,Legal,
+535C,0,R,Legal,
+535A,1,R,Legal,
+255B,1,R,Legal,
+255A,0,R,Legal,
+256,0,R,Legal,
+257,0,R,Legal,
+283B,0,R,Legal,
+283A,0,R,Legal,
+313,0,R,Legal,
+CHA,0,R,Legal,
+CHB,1,R,Legal,
+CHF,1,R,Legal,
+CHK,0,R,Legal,
+CHL,0,R,Legal,
+KZG,1,R,Legal,
+KZJ,0,R,Legal,
+KZK,0,R,Legal,
+KZO,1,R,Legal,
+KZR,16,R,Legal,
+KZS,8,R,Legal,
+MOGX,0,R,Legal,
+MOLA,0,R,Legal,
+MONX,0,R,Legal,
+MOPA,0,R,Legal,
+MOLB,0,R,Legal,
+MOXA,0,R,Legal,
+MOXB,0,R,Legal,
+CHL,0,S,Recruit,
+CHF,0,S,Recruit,
+UGB,0,S,Recruit,
+UGC,1,S,Recruit,
+UGD,1,S,Recruit,
+UGE,10,S,Recruit,
+UGI,1,S,Recruit,
+UGM,40,S,Recruit,
+510D,0,S,Recruit,
+KLI,0,S,Recruit,
+510C,0,S,Recruit,
+511A,0,S,Recruit,
+535A,0,S,Recruit,
+535C,1,S,Recruit,
+535C,1,S,Recruit,
+535A,2,S,Recruit,
+510C,0,S,Recruit,
+511A,0,S,Recruit,
+535A,0,S,Recruit,
+535C,1,S,Recruit,
+535C,1,S,Recruit,
+535A,1,S,Recruit,
+255B,1,S,Recruit,
+255A,0,S,Recruit,
+256,0,S,Recruit,
+257,0,S,Recruit,
+283B,0,S,Recruit,
+283A,0,S,Recruit,
+313,0,S,Recruit,
+CHA,0,S,Recruit,
+CHB,5,S,Recruit,
+CHF,0,S,Recruit,
+CHK,0,S,Recruit,
+CHL,0,S,Recruit,
+KZG,0,S,Recruit,
+KZJ,0,S,Recruit,
+KZK,0,S,Recruit,
+KZO,0,S,Recruit,
+KZR,54,S,Recruit,
+KZS,81,S,Recruit,
+MOGX,0,S,Recruit,
+MOLA,0,S,Recruit,
+MONX,0,S,Recruit,
+MOPA,0,S,Recruit,
+MOLB,0,S,Recruit,
+MOXA,0,S,Recruit,
+MOXB,0,S,Recruit,
+CHL,1,R,Recruit,
+CHF,7,R,Recruit,
+UGB,0,R,Recruit,
+UGC,7,R,Recruit,
+UGD,2,R,Recruit,
+UGE,3,R,Recruit,
+UGI,0,R,Recruit,
+UGM,32,R,Recruit,
+510D,6,R,Recruit,
+KLI,0,R,Recruit,
+510C,0,R,Recruit,
+511A,0,R,Recruit,
+535A,0,R,Recruit,
+535C,0,R,Recruit,
+535C,1,R,Recruit,
+535A,0,R,Recruit,
+510C,0,R,Recruit,
+511A,0,R,Recruit,
+535A,0,R,Recruit,
+535C,3,R,Recruit,
+535C,0,R,Recruit,
+535A,1,R,Recruit,
+255B,1,R,Recruit,
+255A,0,R,Recruit,
+256,0,R,Recruit,
+257,0,R,Recruit,
+283B,0,R,Recruit,
+283A,0,R,Recruit,
+313,0,R,Recruit,
+CHA,0,R,Recruit,
+CHB,1,R,Recruit,
+CHF,1,R,Recruit,
+CHK,0,R,Recruit,
+CHL,0,R,Recruit,
+KZG,1,R,Recruit,
+KZJ,0,R,Recruit,
+KZK,0,R,Recruit,
+KZO,1,R,Recruit,
+KZR,15,R,Recruit,
+KZS,8,R,Recruit,
+MOGX,0,R,Recruit,
+MOLA,0,R,Recruit,
+MONX,0,R,Recruit,
+MOPA,0,R,Recruit,
+MOLB,0,R,Recruit,
+MOXA,0,R,Recruit,
+MOXB,0,R,Recruit,
+CHL,0,S,Sub Mature,sub
+CHF,2,S,Sub Mature,sub
+UGB,1,S,Sub Mature,sub
+UGC,3,S,Sub Mature,sub
+UGD,11,S,Sub Mature,sub
+UGE,329,S,Sub Mature,sub
+UGI,13,S,Sub Mature,sub
+UGM,680,S,Sub Mature,sub
+510D,287,S,Sub Mature,sub
+KLI,7,S,Sub Mature,sub
+510C,0,S,Sub Mature,sub
+511A,1,S,Sub Mature,sub
+535A,0,S,Sub Mature,sub
+535C,3,S,Sub Mature,sub
+535C,5,S,Sub Mature,sub
+535A,6,S,Sub Mature,sub
+510C,0,S,Sub Mature,sub
+511A,1,S,Sub Mature,sub
+535A,3,S,Sub Mature,sub
+535C,8,S,Sub Mature,sub
+535C,11,S,Sub Mature,sub
+535A,3,S,Sub Mature,sub
+255B,5,S,Sub Mature,sub
+255A,1,S,Sub Mature,sub
+256,2,S,Sub Mature,sub
+257,0,S,Sub Mature,sub
+283B,10,S,Sub Mature,sub
+283A,2,S,Sub Mature,sub
+313,0,S,Sub Mature,sub
+CHA,0,S,Sub Mature,sub
+CHB,71,S,Sub Mature,sub
+CHF,2,S,Sub Mature,sub
+CHK,13,S,Sub Mature,sub
+CHL,0,S,Sub Mature,sub
+KZG,5,S,Sub Mature,sub
+KZJ,0,S,Sub Mature,sub
+KZK,9,S,Sub Mature,sub
+KZO,4,S,Sub Mature,sub
+KZR,105,S,Sub Mature,sub
+KZS,140,S,Sub Mature,sub
+MOGX,1,S,Sub Mature,sub
+MOLA,3,S,Sub Mature,sub
+MONX,0,S,Sub Mature,sub
+MOPA,1,S,Sub Mature,sub
+MOLB,0,S,Sub Mature,sub
+MOXA,0,S,Sub Mature,sub
+MOXB,0,S,Sub Mature,sub
+CHL,0,R,Sub Mature,sub
+CHF,40,R,Sub Mature,sub
+UGB,0,R,Sub Mature,sub
+UGC,12,R,Sub Mature,sub
+UGD,12,R,Sub Mature,sub
+UGE,22,R,Sub Mature,sub
+UGI,4,R,Sub Mature,sub
+UGM,478,R,Sub Mature,sub
+510D,91,R,Sub Mature,sub
+KLI,6,R,Sub Mature,sub
+510C,0,R,Sub Mature,sub
+511A,3,R,Sub Mature,sub
+535A,4,R,Sub Mature,sub
+535C,5,R,Sub Mature,sub
+535C,9,R,Sub Mature,sub
+535A,2,R,Sub Mature,sub
+510C,1,R,Sub Mature,sub
+511A,1,R,Sub Mature,sub
+535A,2,R,Sub Mature,sub
+535C,5,R,Sub Mature,sub
+535C,8,R,Sub Mature,sub
+535A,4,R,Sub Mature,sub
+255B,1,R,Sub Mature,sub
+255A,1,R,Sub Mature,sub
+256,2,R,Sub Mature,sub
+257,0,R,Sub Mature,sub
+283B,1,R,Sub Mature,sub
+283A,2,R,Sub Mature,sub
+313,0,R,Sub Mature,sub
+CHA,0,R,Sub Mature,sub
+CHB,5,R,Sub Mature,sub
+CHF,7,R,Sub Mature,sub
+CHK,0,R,Sub Mature,sub
+CHL,0,R,Sub Mature,sub
+KZG,10,R,Sub Mature,sub
+KZJ,1,R,Sub Mature,sub
+KZK,2,R,Sub Mature,sub
+KZO,15,R,Sub Mature,sub
+KZR,42,R,Sub Mature,sub
+KZS,14,R,Sub Mature,sub
+MOGX,1,R,Sub Mature,sub
+MOLA,2,R,Sub Mature,sub
+MONX,1,R,Sub Mature,sub
+MOPA,2,R,Sub Mature,sub
+MOLB,0,R,Sub Mature,sub
+MOXA,0,R,Sub Mature,sub
+MOXB,0,R,Sub Mature,sub
+CHL,2,S,92_114,sub
+CHF,5,S,92_114,sub
+UGB,2,S,92_114,sub
+UGC,4,S,92_114,sub
+UGD,4,S,92_114,sub
+UGE,137,S,92_114,sub
+UGI,12,S,92_114,sub
+UGM,444,S,92_114,sub
+510D,134,S,92_114,sub
+KLI,2,S,92_114,sub
+510C,1,S,92_114,sub
+511A,4,S,92_114,sub
+535A,8,S,92_114,sub
+535C,7,S,92_114,sub
+535C,5,S,92_114,sub
+535A,8,S,92_114,sub
+510C,0,S,92_114,sub
+511A,5,S,92_114,sub
+535A,5,S,92_114,sub
+535C,5,S,92_114,sub
+535C,8,S,92_114,sub
+535A,11,S,92_114,sub
+255B,18,S,92_114,sub
+255A,4,S,92_114,sub
+256,6,S,92_114,sub
+257,0,S,92_114,sub
+283B,24,S,92_114,sub
+283A,29,S,92_114,sub
+313,3,S,92_114,sub
+CHA,0,S,92_114,sub
+CHB,55,S,92_114,sub
+CHF,19,S,92_114,sub
+CHK,25,S,92_114,sub
+CHL,1,S,92_114,sub
+KZG,22,S,92_114,sub
+KZJ,0,S,92_114,sub
+KZK,24,S,92_114,sub
+KZO,26,S,92_114,sub
+KZR,173,S,92_114,sub
+KZS,104,S,92_114,sub
+MOGX,6,S,92_114,sub
+MOLA,5,S,92_114,sub
+MONX,5,S,92_114,sub
+MOPA,3,S,92_114,sub
+MOLB,0,S,92_114,sub
+MOXA,0,S,92_114,sub
+MOXB,1,S,92_114,sub
+CHL,0,R,92_114,sub
+CHF,20,R,92_114,sub
+UGB,1,R,92_114,sub
+UGC,5,R,92_114,sub
+UGD,7,R,92_114,sub
+UGE,19,R,92_114,sub
+UGI,11,R,92_114,sub
+UGM,200,R,92_114,sub
+510D,96,R,92_114,sub
+KLI,0,R,92_114,sub
+510C,2,R,92_114,sub
+511A,5,R,92_114,sub
+535A,5,R,92_114,sub
+535C,4,R,92_114,sub
+535C,1,R,92_114,sub
+535A,4,R,92_114,sub
+510C,2,R,92_114,sub
+511A,4,R,92_114,sub
+535A,8,R,92_114,sub
+535C,4,R,92_114,sub
+535C,5,R,92_114,sub
+535A,3,R,92_114,sub
+255B,4,R,92_114,sub
+255A,2,R,92_114,sub
+256,6,R,92_114,sub
+257,0,R,92_114,sub
+283B,2,R,92_114,sub
+283A,6,R,92_114,sub
+313,1,R,92_114,sub
+CHA,2,R,92_114,sub
+CHB,18,R,92_114,sub
+CHF,33,R,92_114,sub
+CHK,1,R,92_114,sub
+CHL,1,R,92_114,sub
+KZG,24,R,92_114,sub
+KZJ,0,R,92_114,sub
+KZK,23,R,92_114,sub
+KZO,45,R,92_114,sub
+KZR,75,R,92_114,sub
+KZS,18,R,92_114,sub
+MOGX,5,R,92_114,sub
+MOLA,10,R,92_114,sub
+MONX,4,R,92_114,sub
+MOPA,6,R,92_114,sub
+MOLB,0,R,92_114,sub
+MOXA,1,R,92_114,sub
+MOXB,0,R,92_114,sub
