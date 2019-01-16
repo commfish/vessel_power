@@ -27,12 +27,10 @@ fpc_r <- function(data){
            var = (1 / m1^2) * ((sum((y - (FPCr * x))^2) / (npairs - 1)) / npairs),
            se = sqrt(var),
            cv = sqrt(var / (n-1)) / FPCr,
-           lll = FPCr * exp(-1.96 * sqrt(log(1 + cv ^2))),
-           lul = FPCr * exp(1.96 * sqrt(log(1 + cv ^2))),
            ll = FPCr  - z * se,
            ul = FPCr +  z * se) %>% 
     summarise_all(mean) %>% 
-    dplyr::select(resolution=x, solstice=y, n, FPCr, se, lll, lul, ll, ul) -> out
+    dplyr::select(resolution=x, solstice=y, n, FPCr, se, ll, ul) -> out
   out
 
 }
@@ -47,8 +45,8 @@ f_smpl <- function(x){
 
 f_clean <- function(x){
   x %>% 
-    transmute(cpue1 = log(res + 1),
-           cpue2 = log(sol + 1),
+    transmute(res = log(res + 1),
+           sol = log(sol + 1),
            haul = factor(1:n())) %>% 
     gather(vessel, value, -haul) %>% 
     mutate(vessel = factor(vessel)) 

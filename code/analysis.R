@@ -25,16 +25,15 @@ read_csv('data/kodiak_vessel_power.csv') %>%
          Primary = factor(primary),
          Perf = factor(gear_perf),
          Station = factor(station),
-         id = group_indices(., station)) %>% 
-  dplyr::select(Vessel, juv_fem:pollock, tow) %>%
-  gather(species, cpue, -tow, -Vessel) %>% 
-  mutate(id = paste0(substring(tow, 1, 2), substring(tow, 7, 8))) %>% 
-  dplyr::select(-tow) %>% 
-  group_by(id, species) %>% 
+         id = rep(1:(nrow(.)/2), each=2)) %>% 
+  dplyr::select(Vessel, juv_fem:pollock, id) %>%
+  gather(species, cpue, -id, -Vessel) %>% 
   spread(Vessel, cpue) %>% 
-  drop_na %>% 
   ungroup %>% 
   dplyr::select(species, res = `30`, sol = `32`) %>% 
+  mutate(rem = ifelse(res==0 & sol==0, 0, 1)) %>%
+  filter(rem==1) %>% 
+  dplyr::select(-rem) %>% 
   split(.$species) -> power
 
 # Estimate FPC_r
@@ -48,8 +47,9 @@ power %>%
   map(fpc_r) %>% 
   bind_rows (.id = 'species') %>% 
   mutate_at(2:8, funs(round(., 2))) %>% 
+  mutate(species = factor(species, levels = species[order(FPCr)])) %>% 
   ggplot(aes(species, FPCr)) + geom_point() +
-  geom_errorbar(aes(ymin = lll, ymax = lul), width =0.1) +
+  geom_errorbar(aes(ymin = ll, ymax = ul), width =0.1) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
   geom_hline(yintercept = 1, lty = 3) +
   expand_limits(y = 0) + 
@@ -74,9 +74,12 @@ power %>%
     map(f_model) %>% 
     map_df(~data.frame(fpc_b = .x), .id = 'species') %>% 
     left_join(., boot_ci) %>% 
+    mutate(species = factor(species, levels = species[order(fpc_b)])) %>% 
   ggplot(aes(species, fpc_b)) + geom_point() +
     geom_errorbar(aes(ymin = ll, ymax = ul), width =0.1) +
     theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
     geom_hline(yintercept = 1, lty = 3) +
     expand_limits(y = 0) + 
-    ggtitle("FPC random block method")
+    ggtitle("FPC random block method") +
+    ylab('Fishing Power Correction') +
+    xlab('Species group')
