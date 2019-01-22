@@ -40,9 +40,8 @@ read_csv('data/kodiak_vessel_power.csv') %>%
 # ratio estimator of mean cpue of a species from the R/V Resolution to the mean 
 # cpue in the R/V Solstice
 
-glimpse(power)
 
-# change data for analysis FPC_ratio (log transformed CIs)
+# analysis FPC_ratio 
 power %>%
   map(fpc_r) %>% 
   bind_rows (.id = 'species') %>% 
@@ -56,7 +55,7 @@ power %>%
   ggtitle("FPC ratio method")
 
 
-# change data for analysis FPC_ratio (log transformed CIs)
+# analysis model FPC - bootstrap CIs
 
 power %>% 
   rep(., 1000) %>% 
